@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - :smiley: My name is Tim...
 - :desktop_computer: I mainly code in F# but I used to code in Clojure, R and VBA :upside_down_face:
 - :rocket: I maintain the following OSS projects
+    -   [Chia](https://github.com/DanpowerGruppe/Chia/)
     -   [Fumble](https://github.com/tforkmann/Fumble/)
     -   [Juniper](https://github.com/tforkmann/Juniper/)
-    -   [Chia](https://github.com/DanpowerGruppe/Chia/)
     -   [Fable.ReactAgGrid](https://github.com/DanpowerGruppe/Fable.ReactAgGrid)
 - I'm interested in :wind_face:, :sun_with_face:, :leaves: renewable energy production	 
 - I love playing :soccer:, :basketball:	and :tennis: and I go :running: from time to time
