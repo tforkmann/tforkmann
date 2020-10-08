@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - I love playing :soccer:, :basketball:	and :tennis: and I go :running: and :climbing: from time to time
 - Twitter: [@tforkmann](https://twitter.com/tforkmann)
 - Blog: [TimsEnergyBlog](https://timsenergyblog-dev-web.azurewebsites.net/)
+
 [![Tim's github stats](https://github-readme-stats.vercel.app/api?username=tforkmann&count_private=true&theme=highcontrast&show_icons=true&include_all_commits=true)](https://github.com/tforkmann)
