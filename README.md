@@ -22,6 +22,8 @@ Here are some ideas to get you started:
     -   [Fumble](https://github.com/tforkmann/Fumble/)
     -   [Juniper](https://github.com/tforkmann/Juniper/)
     -   [Fable.ReactAgGrid](https://github.com/DanpowerGruppe/Fable.ReactAgGrid)
+    -   [Feliz.ReactFlow](https://github.com/tforkmann/Feliz.ReactFlow)
+
 - I'm interested in :wind_face:, :sun_with_face:, :leaves: renewable energy production	 
 - I love playing :soccer:, :basketball:	and :tennis: and I go :running: and :climbing: from time to time
 - Twitter: [@tforkmann](https://twitter.com/tforkmann)
