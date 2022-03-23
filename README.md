@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     -   [AzureTackle](https://github.com/tforkmann/AzureTackle/)
     -   [Juniper](https://github.com/tforkmann/Juniper/)
     -   [Feliz.ReactFlow](https://github.com/tforkmann/Feliz.ReactFlow)
+    -   [Feliz.Tailwind](https://github.com/tforkmann/Feliz.Tailwind)
 
 - I'm interested in :wind_face:, :sun_with_face:, :leaves: renewable energy production	 
 - I love playing :soccer:, :basketball:	and :tennis: and I go :running: and :climbing: from time to time
