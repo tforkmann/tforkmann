@@ -24,6 +24,7 @@ Here are some ideas to get you started:
     -   [Feliz.ReactFlow](https://github.com/tforkmann/Feliz.ReactFlow)
     -   [Feliz.Tailwind](https://github.com/tforkmann/Feliz.Tailwind)
     -   [Feliz.ChartJS](https://github.com/tforkmann/Feliz.ChartJS)
+    -   [Feliz.QRCode](https://github.com/tforkmann/Feliz.QRCode)
     -   [Feliz.GridLayout](https://github.com/tforkmann/Feliz.GridLayout)
 
 - I'm interested in :wind_face:, :sun_with_face:, :leaves: renewable energy production	 
