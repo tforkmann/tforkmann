@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     -   [Feliz.ChartJS](https://github.com/tforkmann/Feliz.ChartJS)
     -   [Feliz.QRCode](https://github.com/tforkmann/Feliz.QRCode)
     -   [Feliz.GridLayout](https://github.com/tforkmann/Feliz.GridLayout)
+    -   [Feliz.DateRange](https://github.com/tforkmann/Feliz.DateRange)
 
 - I'm interested in :wind_face:, :sun_with_face:, :leaves: renewable energy production	 
 - I love playing :soccer:, :basketball:	and :tennis: and I go :running: and :climbing: from time to time
