@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 - :smiley: My name is Tim...
 - :desktop_computer: I mainly code in F# but I used to code in Clojure, R and VBA :upside_down_face:
-- :rocket: I maintain the following OSS projects
+- :rocket: I currently maintain the following OSS projects
     -   [Fumble](https://github.com/tforkmann/Fumble/)
     -   [AzureTackle](https://github.com/tforkmann/AzureTackle/)
-    -   [Juniper](https://github.com/tforkmann/Juniper/)
     -   [Feliz.ReactFlow](https://github.com/tforkmann/Feliz.ReactFlow)
     -   [Feliz.Tailwind](https://github.com/tforkmann/Feliz.Tailwind)
     -   [Feliz.ChartJS](https://github.com/tforkmann/Feliz.ChartJS)
     -   [Feliz.QRCode](https://github.com/tforkmann/Feliz.QRCode)
     -   [Feliz.GridLayout](https://github.com/tforkmann/Feliz.GridLayout)
     -   [Feliz.DateRange](https://github.com/tforkmann/Feliz.DateRange)
+    -   [Feliz.ReactContentLoader](https://github.com/tforkmann/Feliz.ReactContentLoader)
 
 - I'm interested in :wind_face:, :sun_with_face:, :leaves: renewable energy production	 
 - I love playing :soccer:, :basketball:	and :tennis: and I go :running: and :climbing: from time to time
