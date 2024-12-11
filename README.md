@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     -   [Feliz.GridLayout](https://github.com/tforkmann/Feliz.GridLayout)
     -   [Feliz.DateRange](https://github.com/tforkmann/Feliz.DateRange)
     -   [Feliz.ReactContentLoader](https://github.com/tforkmann/Feliz.ReactContentLoader)
+    -   [Feliz.ReactJoyride](https://github.com/tforkmann/Feliz.ReactJoyride)
 
 - I'm interested in :wind_face:, :sun_with_face:, :leaves: renewable energy production	 
 - I love playing :soccer:, :basketball:	and :tennis: and I go :running: and :climbing: from time to time
